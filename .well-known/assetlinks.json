@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.aurapoplop.www.twa",
+        "sha256_cert_fingerprints": ["C7:D0:98:78:FD:A2:99:84:99:5E:33:3E:74:93:31:AD:4E:89:CA:89:21:61:F6:12:86:70:9C:EC:E0:FD:A1:BD"]
+      }
+    }]
